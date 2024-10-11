@@ -28,4 +28,11 @@ class SRV {
     const pathParts = path.split('/');
     return pathParts.slice(0, -1).reverse();
   }
+
+  // 폴더 경로로 부터 자식 폴더 경로 가져오기
+  getSubFolderListsByFolderPath(folderPath){
+    return app.vault.getAbstractFileByPath(folderPath).children.filter(child => !child.extension).map(t => t.name)
+  }
+
+  
 }

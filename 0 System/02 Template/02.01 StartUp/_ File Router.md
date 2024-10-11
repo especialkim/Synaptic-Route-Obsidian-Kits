@@ -53,6 +53,4 @@
     } else {
         fileType = "unknown";
     }
-
-
 %>

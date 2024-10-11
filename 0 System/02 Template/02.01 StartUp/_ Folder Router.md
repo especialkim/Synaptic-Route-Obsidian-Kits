@@ -1,14 +1,23 @@
 <%*
-// 필요한 함수와 변수 초기화
 const { SRV } = customJS;
 const filePath = tp.file.path(true);
 const folderList = SRV.getFolderListbyPath(filePath);
+console.log("folderList", folderList);
 
 for(const folder of folderList) {
     const templateFileName = `_ ${folder}`;
+    const templateDefaultFileName = `_ ${folder} Default`;
+    const templateDefaultFile = await tp.file.find_tfile(templateDefaultFileName);
     const templateFile = await tp.file.find_tfile(templateFileName);
-    
+
+    if(templateDefaultFile) {
+        console.log("Template Default File Found:", templateDefaultFileName);
+        tR += await tp.file.include(`[[${templateDefaultFileName}]]`);
+        break;
+    }
+
     if(templateFile) {
+        console.log("Template File Found:", templateFileName);
         tR += await tp.file.include(`[[${templateFileName}]]`);
         break;  // 첫 번째 매칭되는 템플릿을 찾으면 중단
     }
@@ -23,8 +32,6 @@ if (!tR) {
     // 여전히 매칭되는 템플릿이 없는 경우
     if (!tR) {
         console.log("No matching template found");
-        // 여기에 기본 템플릿이나 오류 메시지를 추가할 수 있습니다.
-        tR += "No matching template found for this file.";
     }
 }
 %>

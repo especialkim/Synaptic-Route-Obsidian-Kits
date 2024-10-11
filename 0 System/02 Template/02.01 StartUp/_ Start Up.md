@@ -1,4 +1,5 @@
 <%*
+console.log("Start Up");
 // 필요한 함수와 변수 초기화
 const { SRV } = customJS;
 const fileName = tp.file.title;
@@ -14,8 +15,6 @@ if (fileName.startsWith('무제 파일') || fileName.startsWith('Untitled')) {
     creationMode = 2;
 }
 
-// 디버깅을 위한 로그 (필요시 주석 해제)
-// console.log("Root Folder:", rootFolder);
 console.log("Creation Mode:", creationMode);
 
 // 파일 처리

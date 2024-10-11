@@ -13,12 +13,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Dictionary/무제 파일.md",
+                "file": "E Essay/무제 파일.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "무제 파일"
+            }
+          },
+          {
+            "id": "28c932336da82c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E Essay/' 테스트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "' 테스트"
+            }
+          },
+          {
+            "id": "4ddd2d7f8e6d7029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E Essay/~ 테스트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "~ 테스트"
+            }
+          },
+          {
+            "id": "f0c9ccf6a70af6a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E Essay/월남쌈.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "월남쌈"
+            }
+          },
+          {
+            "id": "1f7ce1a4dbb39f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z Test/무제 파일.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "무제 파일"
+            }
+          },
+          {
+            "id": "cd7e619845833a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z Test/+ 테스트다.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "+ 테스트다"
             }
           },
           {
@@ -35,7 +105,8 @@
               "title": "_ Start Up"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -175,12 +246,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "562309d66b4bb00b",
+  "active": "cd7e619845833a0c",
   "lastOpenFiles": [
+    "Z Test/무제 파일.md",
+    "Z Test/+ 테스트다.md",
+    "0 System/02 Template/02.02 Folder/_ Z Test.md",
+    "Z Test/무제 파일 1.md",
+    "0 System/02 Template/02.01 StartUp/_ Periodic Router.md",
+    "0 System/00 Rules/& FileMeta.md",
+    "E Essay/월남쌈.md",
+    "0 System/02 Template/02.01 StartUp/_ Kanban Router.md",
+    "0 System/02 Template/02.01 StartUp/_ Excalidraw Router.md",
+    "0 System/02 Template/02.01 StartUp/_ Output Router.md",
+    "0 System/02 Template/02.01 StartUp/_ Folder Router.md",
+    "0 System/02 Template/02.01 StartUp/_ File Router.md",
+    "E Essay/~ 테스트.md",
+    "E Essay/' 테스트.md",
+    "E Essay/무제 파일.md",
+    "2 Dictionary/무제 파일.md",
     "0 System/02 Template/02.04 Function/_ File Router.md",
     "0 System/02 Template/무제 파일.md",
     "0 System/02 Template/02.02 Folder/_ 02 Template.md",
-    "2 Dictionary/무제 파일.md",
     "0 System/02 Template/02.01 StartUp/_ Start Up.md",
     "0 System/02 Template/02.04 Function/_ Folder Router.md",
     "0 System/02 Template/02.04 Function/_ 무제 파일.md",
@@ -189,21 +275,6 @@
     "0 System/02 Template/02.03 File/_ 02 Template.md",
     "0 System/02 Template/02.03 File/_ 0 System Default.md",
     "0 System/02 Template/02.03 File",
-    "8 Area/무제 파일.md",
-    "0 System/무제 파일.md",
-    "1 Inbox/무제 파일.md",
-    "0 System/무제 파일 4.md",
-    "0 System/무제 파일 5.md",
-    "0 System/무제 파일 2.md",
-    "0 System/무제 파일 3.md",
-    "0 System/무제 파일 1.md",
-    "Z Test/무제 파일.md",
-    "0 System/Untitled.md",
-    "0 System/02 Template/02.02 Folder/_ 4 Main Card.md",
-    "0 System/02 Template/02.02 Folder/무제 파일 1.md",
-    "0 System/02 Template/02.02 Folder/무제 파일.md",
-    "0 System/00 Rules/& FileMeta.md",
-    "0 System/00 Rules/_ FileMeta.md",
     "0 System/02 Template/02.02 Folder/_ 9 Chatacter",
     "0 System/02 Template/02.02 Folder/_ 7 Project",
     "0 System/02 Template/02.02 Folder/_ 6 Structure Note",

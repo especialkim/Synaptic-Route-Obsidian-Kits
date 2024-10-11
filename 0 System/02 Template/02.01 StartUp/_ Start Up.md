@@ -16,7 +16,7 @@ if (fileName.startsWith('무제 파일') || fileName.startsWith('Untitled')) {
 
 // 디버깅을 위한 로그 (필요시 주석 해제)
 // console.log("Root Folder:", rootFolder);
-// console.log("Creation Mode:", creationMode);
+console.log("Creation Mode:", creationMode);
 
 // 파일 처리
 if (creationMode === 1) {

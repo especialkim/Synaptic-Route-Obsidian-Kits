@@ -14,9 +14,17 @@ for(const folder of folderList) {
     }
 }
 
-// 매칭되는 템플릿이 없을 경우의 처리
 if (!tR) {
-    console.log("No matching template found");
-    // 여기에 기본 템플릿이나 오류 메시지를 추가할 수 있습니다.
+    // 폴더 기반 템플릿이 없을 경우, A to Z Output 템플릿 확인
+    if (/^[A-Z] /.test(filePath)) {
+        tR += await tp.file.include("[[_ AtoZ Output]]");
+    }
+    
+    // 여전히 매칭되는 템플릿이 없는 경우
+    if (!tR) {
+        console.log("No matching template found");
+        // 여기에 기본 템플릿이나 오류 메시지를 추가할 수 있습니다.
+        tR += "No matching template found for this file.";
+    }
 }
 %>

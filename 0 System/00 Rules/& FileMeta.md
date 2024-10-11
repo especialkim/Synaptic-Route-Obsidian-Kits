@@ -1,16 +1,17 @@
 ## Prefix
 
 - `_` : Template
-- `&` : System & 
+- `&` : System
 - `}` : Inbox
 - `~` : Literature Card
 - `'` : Main Card
+- `)` : Keyword
 - `%` : Structure Card
 - `$` : Project
 - `;` : Area
 - `@` : Character
 - `!` : Output
-- `+` : Text
+- `+` : Test
 - `^\d{4}` : Periodic (Year)
 - `^(?!\d{4})[^_&}~'%$;@!+]` : Terms(용어)
 

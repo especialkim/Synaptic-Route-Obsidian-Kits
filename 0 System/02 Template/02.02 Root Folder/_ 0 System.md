@@ -1,14 +1,11 @@
 <%*
-    console.log("0 System");
     const {SRV} = customJS;
+    const targetFolder = "0 System";
     let fileName = tp.file.title;
     let filePath = tp.file.path(true);
     let rootFolder = SRV.getRootFolderbyPath(filePath);
 
-    console.log("rootFolder", rootFolder);
-
-    if(rootFolder !== "0 System") {
-        const targetFolder = "0 System";
+    if(rootFolder !== targetFolder) {
         let subFolders = SRV.getSubFolderListsByFolderPath(targetFolder);
         let selection = "";
 
@@ -31,5 +28,4 @@
             console.log("file moved to", `${selection}/${fileName}`);
         }
     }
-    tR += await tp.file.include("[[_ Folder Router]]");
 -%>

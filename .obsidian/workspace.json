@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "1b7cce1aa55d13f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1de5f535a710c60e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "562309d66b4bb00b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M Maintenance/FolderTree.py",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FolderTree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d5ab4a7d59a9491",
+    "type": "split",
+    "children": [
+      {
+        "id": "eacb0473fb16f612",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1d20193831d971a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "6ae4f4e52a3f7668",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "ba1c0e9afbdfe41a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01afed980f0c245f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b981f82d8dcb0572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3a59c791de62223",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "a338daf57548d3e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "42c8bea3f023a60f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "06d83c1a5ff22f0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Welcome 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "562309d66b4bb00b",
+  "lastOpenFiles": [
+    "README.md",
+    "0 System/02 Template/02.21 Periodic Note",
+    "0 System/02 Template/02.41 Note Refactor",
+    "0 System/02 Template/02.33 Kanban",
+    "0 System/02 Template/02.32 Excalidraw Deconstruct",
+    "0 System/02 Template/02.52 Zotero",
+    "0 System/02 Template/02.51 Omnivore",
+    "0 System/02 Template/02.32 Kanban",
+    "0 System/02 Template/02.31 Excalidraw",
+    "0 System/02 Template/02.06 Plugin Template",
+    "0 System/02 Template/02.05 AI",
+    "M Maintenance/! FolderTree.m.md",
+    "M Maintenance/!M FolderTree.md",
+    "Welcome.md"
+  ]
+}

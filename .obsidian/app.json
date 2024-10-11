@@ -4,5 +4,7 @@
   "showUnsupportedFiles": true,
   "uriCallbacks": true,
   "attachmentFolderPath": "0 System/08 Attachment/08.01 Image",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "propertiesInDocument": "source",
+  "promptDelete": false
 }

@@ -2,5 +2,6 @@
   "dataview",
   "obsidian-custom-file-extensions-plugin",
   "templater-obsidian",
-  "customjs"
+  "customjs",
+  "obsidian-style-settings"
 ]

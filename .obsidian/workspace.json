@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M Maintenance/FolderTree.py",
-                "mode": "preview",
+                "file": "0 System/02 Template/02.00 Constant/_ FileMeta.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FolderTree"
+              "title": "_ FileMeta"
             }
           }
         ]
@@ -163,17 +163,29 @@
   },
   "active": "562309d66b4bb00b",
   "lastOpenFiles": [
+    "0 System/02 Template/02.02 Folder/_ AtoZ Output.md",
+    "0 System/02 Template/02.02 Folder/_ 9 Chatacter.md",
+    "0 System/02 Template/02.02 Folder/_ 9 Chatacter",
+    "0 System/02 Template/02.02 Folder/_ 8 Area.md",
+    "0 System/02 Template/02.02 Folder/_ 7 Project.md",
+    "0 System/02 Template/02.02 Folder/_ 7 Project",
+    "0 System/02 Template/02.02 Folder/_ 6 Structure Note.md",
+    "0 System/02 Template/02.02 Folder/_ 6 Structure Note",
+    "0 System/02 Template/02.02 Folder/_ 5 Keyword.md",
+    "0 System/02 Template/02.02 Folder/_ 5 Keyword",
+    "0 System/02 Template/02.02 Folder/_ 4 Main Card.md",
+    "0 System/02 Template/02.02 Folder/4 Main Card",
+    "0 System/02 Template/02.02 Folder/_ 3 Literature Card.md",
+    "0 System/02 Template/02.02 Folder/_ 2 Dictionary.md",
+    "0 System/02 Template/02.02 Folder/_ 3 Literature Card",
+    "0 System/02 Template/02.02 Folder/_ 2 Dictionary",
+    "0 System/02 Template/02.02 Folder/_ 1 Inbox.md",
+    "0 System/02 Template/02.02 Folder/_ 0 System.md",
+    "0 System/02 Template/02.02 Folder/_ 1 Inbox",
+    "0 System/02 Template/02.02 Folder/_ 0 System",
+    "M Maintenance/FolderTree.py",
+    "0 System/02 Template/02.00 Constant/_ FileMeta.md",
     "README.md",
-    "0 System/02 Template/02.21 Periodic Note",
-    "0 System/02 Template/02.41 Note Refactor",
-    "0 System/02 Template/02.33 Kanban",
-    "0 System/02 Template/02.32 Excalidraw Deconstruct",
-    "0 System/02 Template/02.52 Zotero",
-    "0 System/02 Template/02.51 Omnivore",
-    "0 System/02 Template/02.32 Kanban",
-    "0 System/02 Template/02.31 Excalidraw",
-    "0 System/02 Template/02.06 Plugin Template",
-    "0 System/02 Template/02.05 AI",
     "M Maintenance/! FolderTree.m.md",
     "M Maintenance/!M FolderTree.md",
     "Welcome.md"
